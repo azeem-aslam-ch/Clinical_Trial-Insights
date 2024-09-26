@@ -1,5 +1,6 @@
-# Clinical_Trial-Insights
-This repository provides a comprehensive framework for analyzing clinical trial data to gain additional insights. It includes a collection of notebooks, scripts, and datasets that can be used to extract, transform, and analyze clinical trial data.
+Clinical Trial Analysis using Apache Spark
+
+This repository provides a comprehensive framework for analyzing clinical trial data using Apache Spark. The repository includes examples of implementing clinical trial analysis using DataFrames, RDDs, and SQL.
 
 Motivation
 
@@ -7,7 +8,6 @@ Clinical trials are crucial in the development of new treatments and medications
 
 Features
 
-Data Extraction: Scripts for extracting data from clinical trial registries, such as ClinicalTrials.gov, using APIs and web scraping techniques.
-Data Transformation: Notebooks for transforming and cleaning clinical trial data, including handling missing values, data normalization, and feature engineering.
-Data Analysis: Scripts and notebooks for analyzing clinical trial data, including statistical analysis, data visualization, and machine learning techniques.
-Data Visualization: Notebooks for visualizing clinical trial data, including plots, charts, and heat maps.
+DataFrames: Examples of how to use DataFrames to analyze clinical trial data, including data loading, filtering, and aggregation.
+RDDs: Examples of how to use RDDs to analyze clinical trial data, including data loading, mapping, and reducing.
+SQL: Examples of how to use SQL to analyze clinical trial data, including data querying and aggregation.
